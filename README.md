@@ -1,2 +1,2 @@
 # PowerBI-Projects
-Kindly go through the PDFs on the repository to check out my projects on PowerBI. Thank you.
+Please review the PDFs available in the repository to explore my PowerBI projects. Thank you for your attention.
