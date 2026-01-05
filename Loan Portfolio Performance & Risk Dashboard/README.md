@@ -112,10 +112,10 @@ The dataset covers **1,000 unique borrowers**, tracking performance from loan di
 ## 🖼️ Dashboard Previews
 
 ### Risk Dashboard
-![Risk Dashboard](./documentation/risk_dashboard.png)
+![](./Dashboard%203.png)
 
 ### Repayment Dashboard
-![Repayment Dashboard](./documentation/repayment_dashboard.png)
+![](./Dashboard%204.png)
 
 ---
 ---
