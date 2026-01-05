@@ -60,8 +60,8 @@ Monthly Trends: Disbursement peaked in April ($178M); repayments show consistent
 
 ## 🖼️ Dashboard Previews
 Risk Dashboard: Portfolio overview, default analysis, product/segment risk
+![](./Dashboard%203.png)
 
-https://./documentation/repayment_dashboard.png
 Repayment Dashboard: Collection performance, payment modes, regional repayment trends
 
 ## 📌 Conclusion
