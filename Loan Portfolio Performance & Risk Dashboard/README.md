@@ -63,6 +63,7 @@ Risk Dashboard: Portfolio overview, default analysis, product/segment risk
 ![](./Dashboard%203.png)
 
 Repayment Dashboard: Collection performance, payment modes, regional repayment trends
+![](./Dashboard%204.png)
 
 ## 📌 Conclusion
 This dual-dashboard analysis reveals that Fintrust's portfolio success hinges on addressing the critical misalignment in its Education loan segment while leveraging the efficient repayment patterns observed in Salary Advance products and the Abuja Kubwa region. By implementing the recommended actions, Fintrust can transform its risk profile, improve collection efficiency, and drive sustainable profitability through data-informed decision-making.
