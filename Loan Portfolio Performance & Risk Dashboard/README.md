@@ -21,7 +21,7 @@ The key objectives of this project are to:
 
 ## 🧰 Tools & Technologies
 
-### SQL (MySQL / PostgreSQL)
+### SQL (MySQL)
 - Data aggregation and table joins  
 - KPI calculations (Default Rate, Collection Rate, Outstanding Balance)  
 - Segmentation by product type, region, and employment category  
