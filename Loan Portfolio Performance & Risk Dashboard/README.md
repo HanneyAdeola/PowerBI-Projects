@@ -1,4 +1,4 @@
-# 📊 Fintrust Loan Portfolio: Risk & Repayment Analysis
+# Loan Portfolio: Risk & Repayment Analysis
 
 ## 📌 Project Overview
 
