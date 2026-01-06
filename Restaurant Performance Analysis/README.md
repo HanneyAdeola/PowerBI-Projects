@@ -9,11 +9,16 @@ The goal of this analysis is to identify performance patterns, operational stren
 ---
 
 ## 🧰 Tools Used
-- **Power BI**
-  - Power Query for data cleaning and transformation
-  - DAX for calculated measures and KPIs
-  - Interactive dashboards with slicers and filters
-- **Microsoft Excel** (data source)
+### SQL
+- Data extraction and aggregation
+- Filtering and grouping by restaurant, city, and order status
+- Calculation of key metrics such as revenue, profit, costs, and average shipping time
+
+### Power BI
+- Data modeling and relationships
+- DAX measures for KPIs
+- Interactive dashboards with slicers and filters
+- Visual analysis of trends and performance comparisons
 
 ---
 
