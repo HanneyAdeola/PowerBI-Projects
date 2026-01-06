@@ -23,7 +23,7 @@ The goal of this analysis is to identify performance patterns, operational stren
 ---
 
 ## 📊 Dashboard Preview
-![Restaurant Performance Dashboard](dashboard.png)
+![Restaurant Performance Dashboard](./Dashboard%206.png)
 
 ---
 
@@ -57,5 +57,3 @@ The goal of this analysis is to identify performance patterns, operational stren
 - **Allocate marketing and logistics resources** toward top-performing cities and restaurants to maximize returns.
 
 ---
-
-## 📁 Project Structure
